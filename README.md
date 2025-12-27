@@ -1,4 +1,4 @@
-# ZomatoAnalytics---Rating-Analysis-Prediction
+# ZomatoAnalytics-Rating-Analysis-Prediction
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=flat&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Regression-FF9800)
